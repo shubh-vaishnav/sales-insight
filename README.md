@@ -19,6 +19,13 @@ The Sales Insights Data Analysis Project aims to provide valuable insights into 
 5. **Categories by Zone:**
    The analysis involves categorizing products by various zones or regions. This segmentation allows for a comparison of sales performance across different areas, identifying which product categories are more popular in specific zones. This information can guide inventory management and marketing decisions tailored to each region's preferences.
 
+Screenshots: 
+
+![sale-insight-1](https://github.com/shubh-vaishnav/sales-insight/assets/130170546/ed6ad552-7bc9-47cf-a434-1e107855b81a)
+
+![sale-insight-2](https://github.com/shubh-vaishnav/sales-insight/assets/130170546/2cc274d7-7c1c-4103-9271-12eed9643960)
+
+
 By conducting this data analysis project, the company can achieve the following benefits:
 
 - **Informed Decision-Making:** Data-driven insights enable the company to make informed decisions regarding inventory management, marketing campaigns, and product development.
